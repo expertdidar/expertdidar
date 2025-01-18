@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1656679844338?e=1742428800&v=beta&t=aZg9_r7Zgc4lx0ppnzn_9ggD72P6w0PCZhL1L3kFUzQ" alt="Coding Animation" width="100%" hight=300>
+<img src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="Coding Animation" width="100%" hight=80%>
 </div>
 
 <div align="center">
