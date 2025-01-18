@@ -1,9 +1,10 @@
+<div align="center">
 <h1 align="center">Hi there! 👋 I'm <span style="color:blue">DIDAR HOSSAIN</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Tech+Enthusiast;Social+Media+Specialist)](https://git.io/typing-svg" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Tech+Enthusiast;Social+Media+Specialist" alt="Typing Animation">
 </p>
-
+</div>
 ---
 
 ## 🌟 About Me  
