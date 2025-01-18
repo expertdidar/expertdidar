@@ -7,12 +7,13 @@
 ---
 
 ## 🌟 About Me  
-
-A **Full-Stack Engineer**, **Cybersecurity Specialist**, and **Tech Enthusiast** passionate about creating secure, scalable, and high-performance systems. With expertise in **web development**, **cloud infrastructure**, and **penetration testing**, I enjoy solving challenging problems and building innovative solutions.
+<div align="center">
+I'm a passionate **Full Stack Developer** with experience in designing, developing, and deploying web applications. I love building efficient and scalable solutions that solve real-world problems.
+</div>
 
 - 🖥️ Building secure, scalable, and modern systems.
-- 🌐 Working with **Next.js**, **Python**, **AWS**, and more.
-- 🔒 Passionate about **bug bounty hunting** and cybersecurity.
+- 🌐 Working with **Next.js**, **React JS**, **Node JS**, and more.
+- 🔒 Passionate about **Website Building**, **Graphics** and **Social Media**.
 - 🚀 Exploring **LangChain**, **OpenAI**, and **IoT systems**.
 
 ---
@@ -68,25 +69,15 @@ A **Full-Stack Engineer**, **Cybersecurity Specialist**, and **Tech Enthusiast**
 
 ### 🔥 Highlighted Repositories  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=expertdidar&repo=portfolio-backend&theme=radical" alt="Portfolio Backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=expertdidar&repo=youtube-sentiment-analysis&theme=radical" alt="YouTube Sentiment Analysis">
-</div>
-
----
-
-## ⏱️ WakaTime Stats  
-
-### ⌛ Coding Activity  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=expertdidar" alt="WakaTime Stats">
-</div>
+  <img src="https://expertdidar.github.io/CSS-Project-0/">
+ </div>
 
 ---
 
 ## 📫 Connect with Me  
 
-- 🌐 [Portfolio](https://ihemon.me)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/istiak-hassan-emon/)  
+- 🌐 [Portfolio](https://expertdidar.com/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/expertdidar/)  
 - 📧 [Email Me](mailto:expertdidar@gmail.com)  
 
 ---
