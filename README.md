@@ -1,15 +1,14 @@
 <h1 align="center">Hi there! 👋 I'm <span style="color:blue">DIDAR HOSSAIN</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=2196F3&width=435&lines=Full-Stack+Engineer;Cybersecurity+Specialist;Tech+Enthusiast" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Tech+Enthusiast;Social+Media+Specialist)](https://git.io/typing-svg" alt="Typing Animation">
 </p>
 
 ---
 
 ## 🌟 About Me  
-<div align="center">
 I'm a passionate **Full Stack Developer** with experience in designing, developing, and deploying web applications. I love building efficient and scalable solutions that solve real-world problems.
-</div>
+
 
 - 🖥️ Building secure, scalable, and modern systems.
 - 🌐 Working with **Next.js**, **React JS**, **Node JS**, and more.
