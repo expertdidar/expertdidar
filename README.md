@@ -1,3 +1,5 @@
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fnet-analyst-programmer-brussels-hybrid-12-months-finlay-chacksfield&psig=AOvVaw2WsglBB_u4sjqc2WgcAwFr&ust=1737287110084000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDrufuY_4oDFQAAAAAdAAAAABAE" alt="Coding Animation">
+
 <div align="center">
 <h1 align="center">Hi there! 👋 I'm <span style="color:blue">DIDAR HOSSAIN</span></h1>
 
@@ -5,7 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Tech+Enthusiast;Social+Media+Specialist" alt="Typing Animation">
 </p>
 </div>
----
 
 ## 🌟 About Me  
 I'm a passionate **Full Stack Developer** with experience in designing, developing, and deploying web applications. I love building efficient and scalable solutions that solve real-world problems.
