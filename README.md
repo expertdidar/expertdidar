@@ -1,4 +1,6 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1656679844338?e=1742428800&v=beta&t=aZg9_r7Zgc4lx0ppnzn_9ggD72P6w0PCZhL1L3kFUzQ" alt="Coding Animation" width="400">
+<div align="center">
+<img src="https://media.licdn.com/dms/image/v2/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1656679844338?e=1742428800&v=beta&t=aZg9_r7Zgc4lx0ppnzn_9ggD72P6w0PCZhL1L3kFUzQ" alt="Coding Animation" width="100%" hight=300>
+</div>
 
 <div align="center">
 <h1 align="center">Hi there! 👋 I'm <span style="color:blue">DIDAR HOSSAIN</span></h1>
