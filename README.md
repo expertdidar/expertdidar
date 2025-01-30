@@ -1,5 +1,5 @@
 <div align="center">
-<img src="img/Linkedin Cover-01.jpg" alt="Coding Animation" width="100%">
+<img src="https://github.com/expertdidar/expertdidar/blob/ec4f084abb5cf35098d1efbc5cc14b6ab2f6be91/IMG/Linkedin%20Cover-01.jpg" alt="Coding Animation" width="100%">
 </div>
 
 <div align="center">
