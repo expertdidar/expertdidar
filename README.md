@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/img/Linkedin Cover-01.jpg" alt="Coding Animation" width="100%">
+<img src="assets/img/github readme cover.jpg" alt="Coding Animation" width="100%">
 </div>
 
 <div align="center">
@@ -45,7 +45,6 @@ I'm a passionate **Full Stack Developer** with experience in designing, developi
   <img alt="" height="60px" width="60px"   src="assets/tech/Laravel.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/MySQL.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/Dart.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/Flutter.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/NET.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/MicrosoftSQLServer.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/PostgresSQL.svg"/>
