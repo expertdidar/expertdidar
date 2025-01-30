@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/expertdidar/expertdidar/blob/ec4f084abb5cf35098d1efbc5cc14b6ab2f6be91/IMG/Linkedin%20Cover-01.jpg" alt="Coding Animation" width="100%">
+<img src="assets/img/Linkedin Cover-01.jpg" alt="Coding Animation" width="100%">
 </div>
 
 <div align="center">
@@ -19,69 +19,72 @@ I'm a passionate **Full Stack Developer** with experience in designing, developi
 - 🔒 Passionate about **Website Building**, **Graphics** and **Social Media**.
 - 🚀 Exploring **LangChain**, **OpenAI**, and **IoT systems**.
 
+<br>
+
+<div style="display:flex">
+  <a href="https://expertdidar.com/"> <img src="assets/WEBSITE.svg" alt="" height="35px" width="auto"></a>
+  <a href="https://www.linkedin.com/in/expertdidar/"> <img src="assets/LINKEDIN.svg" alt="" height="35px" width="auto"></a>
+  <a href="https://www.facebook.com/expertdidar/"><img src="assets/FACEBOOK.svg" alt="" height="35px" width="auto"></a>
+  <a href="https://www.instagram.com/expertdidar/"><img src="assets/INSTAGRAM.svg" alt="" height="35px" width="auto"></a>
+  <a href="https://www.x.com/expertdidar/"><img src="assets/TWITTER.svg" alt="" height="35px" width="auto"></a>
+</div>
+<br>
+
 ---
 
 ## 🛠️ Tech Stack  
 
-### Languages  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+<div style="display:flex">
+  <img alt="" height="60px" width="60px"   src="assets/tech/JavaScript.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/React.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Vue.js.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Next.js.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Express.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/MongoDB.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/PHP.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Laravel.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/MySQL.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Dart.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Flutter.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/NET.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/MicrosoftSQLServer.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/PostgresSQL.svg"/>
+</div>
 
-### Frameworks & Libraries  
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+### Favourite Tools
 
-### DevOps & Tools  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![ArgoCD](https://img.shields.io/badge/ArgoCD-FE4C36?style=for-the-badge&logo=argo&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
-![Traefik](https://img.shields.io/badge/Traefik-FF9A00?style=for-the-badge&logo=traefik&logoColor=white)  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
+<div style="display:flex">
+<img alt="" height="60px" width="60px"  src="assets/tech/WebStorm.svg" />
+<img alt="" height="60px" width="60px"  src="assets/tech/PhpStorm.svg" />
+<img alt="" height="60px" width="60px"  src="assets/tech/VisualStudio.svg" />
+<img alt="" height="60px" width="60px"  src="assets/tech/AndroidStudio.svg" />
+<img alt="" height="60px" width="60px"  src="assets/tech/Git.svg" />
+<img alt="" height="60px" width="60px"  src="assets/tech/Azure.svg" />
+</div>
 
 ---
 
 ## 🌟 GitHub Stats  
 
-### 🏆 General Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=expertdidar&show_icons=true&theme=radical" alt="GitHub Stats">
-</div>
+<table>
+<tbody>
 
----
+<tr>
+<td>
 
-### 📊 Language Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=expertdidar&layout=donut" alt="Language Stats">
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expertdidar&layout=donut&theme=dark)
 
----
+</td>
 
-## 📌 Pinned Projects  
+<td>
 
-### 🔥 Highlighted Repositories  
-<div align="center">
-  <img src="https://expertdidar.github.io/CSS-Project-0/">
- </div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=expertdidar&show_icons=true&theme=dark)
 
----
+</td>
+</tr>
 
-## 📫 Connect with Me  
-
-- 🌐 [Portfolio](https://expertdidar.com/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/expertdidar/)  
-- 📧 [Email Me](mailto:expertdidar@gmail.com)  
+</tbody>
+</table>
 
 ---
 
